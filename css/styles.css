@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#john-ziegner-cover {
+  background-image: url("http://i.imgur.com/hqJXE9v.jpg");
+}
+
+#john-ziegner-card {
+  background-image: url("http://i.imgur.com/tQ7uCY4.jpg");
+}
+
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
